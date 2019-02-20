@@ -2,9 +2,9 @@
  "info": [
   {
     "package_name":"galleryapps.galleryalbum.gallery",
-    "active_ad" : "2",
+    "active_ad" : "4",
     "random_no" : "1",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "google_ad_interestial": "",
     "google_banner" : "",
     "fb_ad_interestial" : "604363333362373_604373500028023",
