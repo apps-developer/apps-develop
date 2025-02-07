@@ -1,0 +1,62 @@
+
+  We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+
+1)Information Collection And Use
+
+  Email address
+  Cookies and Usage Data
+  SMS Log
+
+- We do not collect or store any personally identifiable information on our servers. All SMS and MMS messages you send and receive, which also includes your phone number are transited via your mobile carrier and never by us.
+  Apps cannot transmit data about a user without  obtaining the user's prior permission and providing the  user with access to information about how and where the  data will be used We collect information from or about the phones, or other devices where you install or access our    Services,  depending on the permissions you've granted.
+  App does not intend to transfer Personal Information   without your consent to third parties We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+
+
+2) Links To Other Sites
+
+-  Our Service may contain links to other sites that are not operated by us. If you click on a third party    link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy  of every site you visit.We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+   Service Providers
+   We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+   These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+
+3) App Permissions
+  
+ WRITE_EXTERNAL_STORAGE
+ READ_EXTERNAL_STORAGE
+ RECEIVE_BOOT_COMPLETED
+ ACCESS_NETWORK_STATE
+ READ_PHONE_STATE
+ READ_CONTACTS
+ RECEIVE_MMS
+ RECEIVE_SMS
+ CALL_PHONE
+ WAKE_LOCK
+ INTERNET
+ READ_SMS
+ SEND_SMS
+ VIBRATE
+ ACCESS_COARSE_LOCATION
+ ACCESS_FINE_LOCATION
+ 
+
+4) Analytics
+-  We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+5) Firebase
+   Firebase is a app analytics tool used for app crash report.
+   Re marketing services for marketing & advertising purposes 
+   Yes, we use re marketing services to advertise our website/app for the following way.
+   Google AdMob
+
+6) Children's Privacy
+-  Our Service does not address anyone under the age of 18 ("Children").
+   We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers. 
+
+7) Changes To This Privacy Policy
+-  We may update our Privacy Policy from time to time. We will notify you of any changes by posting the  new Privacy Policy  on this page.
+   We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+ 
+8) Contact Us
+-  If you have any questions about this Privacy Policy, please contact us:
+   By email:kavi.mehta668@gmail.com
